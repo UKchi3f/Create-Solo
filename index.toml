@@ -66,6 +66,11 @@ hash = "0312cb2dc69b1194b102b1899d98b153ca772dba1fccccaacf44fa7d0ee4d452"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "8b4cb33940d2a5771439131c9b80d68b099efaf5c957ced3ab5ba6c59a0e85ae"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
@@ -306,6 +311,11 @@ hash = "f1ae54bb7e968ce205f8bdfbb793485ebb9a72bad2285d2bdf72a48be2ecfc0a"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c0bc835bafb500c58ec3ca469127bb85d86d89f272e56971609dbb1e38333ce6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
@@ -321,6 +331,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "72471ae43e5e2d976d380ada3c2d7159e1004685c7200c80eaa8f0caac787cb2"
+metafile = true
+
+[[files]]
 file = "mods/gears-n-kinetics.pw.toml"
 hash = "cece078a90462877e2108eb7b98470c82ce07a88e273a72725b3cf5a2bd03e82"
 metafile = true
@@ -331,13 +346,28 @@ hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bc87e226630301bf745b36005cded9327d37ebca276d5a51413a8539abb7025f"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "34fe94ba3007bf74e8e25c50bcba24b69671bf8e5258d117a0550450ea992269"
 metafile = true
 
 [[files]]
+file = "mods/jade-farmers-delight-compatibility.pw.toml"
+hash = "a9350ff56b2a28a6509473be4729d2f66aad67e3a3d607cd5ff76065918d1a62"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
+metafile = true
+
+[[files]]
+file = "mods/jei-plus-plus.pw.toml"
+hash = "4b6f33b8c142c44bb48232eb8373a3639e7130b30bf5bdbcf93ed42e6a0a99b4"
 metafile = true
 
 [[files]]
@@ -366,6 +396,11 @@ hash = "76806236c79f5437953100c618c15aaba2c4e349e29d83113286bb808c687683"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "eddf6d5a6ca8efa6ada014e711c1318d35d9f955738ab81d8f23c170c1202fb6"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "85b032d6fc2208b2ff0c3a247328ea9a89bace96a7cfca30757b566955406ed3"
 metafile = true
@@ -378,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f8ec77e8664d63ea7a482f84806f7670becd8a844e796371bbe56f4750dd56b4"
+metafile = true
+
+[[files]]
+file = "mods/new-visual-keybing.pw.toml"
+hash = "2af6afee2fcf53a9f1861868434aacbe06d2134bc190f4005b94090343daacb2"
 metafile = true
 
 [[files]]
@@ -406,6 +451,11 @@ hash = "89b9434e40a39e9a2de633b00d8dac3e1081db7c9632512fbc07e68f0ccbe547"
 metafile = true
 
 [[files]]
+file = "mods/sable-x-xaero-bridge.pw.toml"
+hash = "910de760c284e7a94711f222a521d2bcad3d03f70eca4acb4a740effb0cf813e"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
@@ -428,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
 hash = "bb409bfe7a8a462b3fa29530b627d5e6c3b6ea9a2f4f57bb9264566a9391ae6c"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "d404de58c0ccc04a52a9b8d9540b355ee7a77c9c88c58ab1b4ffbf07d0357e7c"
 metafile = true
 
 [[files]]
