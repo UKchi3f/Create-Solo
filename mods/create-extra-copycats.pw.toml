@@ -1,0 +1,13 @@
+name = "Create: Extra Copycats"
+filename = "extra_copycats-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "434eca37397ce4ed35b2826dd854cc5e2f8f67ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8086981
+project-id = 1540254

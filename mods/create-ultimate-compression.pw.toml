@@ -1,0 +1,13 @@
+name = "Create: Ultimate Compression"
+filename = "create_ultimatecompression-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8669e740c6d573053e3826297608388ff4894de8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8655096
+project-id = 1653735

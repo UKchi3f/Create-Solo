@@ -1,0 +1,13 @@
+name = "Create: Vault UI"
+filename = "vault_ui-1.0.0-beta10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6015908a8238716f7e9700bd55d4dd9fc670ea22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8467689
+project-id = 1525237

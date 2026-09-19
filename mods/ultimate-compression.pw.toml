@@ -1,0 +1,13 @@
+name = "Ultimate Compression"
+filename = "ultimatecompression-1.21.1-3.2.1_neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dcca34f2fa089052033ca218da2216539a1d055"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8897527
+project-id = 304462
