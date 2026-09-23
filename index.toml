@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "d8ab4b037a0b940f02f98623ba316b1d8565b0d47aed2c933c7b576b8f5cdd24"
+hash = "d1559fbcf900d0ad3eb26d2856f6aa0d95cc52a940203f1fb3d75c8d343d9443"
 metafile = true
 
 [[files]]
