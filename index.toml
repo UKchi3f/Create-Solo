@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "dfefcc67e4c0de95cf4b32bc22811d565f84a50c11700616063e335954d96096"
+hash = "be0036035951859b6dd8ae612acbbdd403f838c284a180459d36726ca259933d"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fast-schematiccannon.pw.toml"
-hash = "666d07082f483bf19492fc40970e1822704117574188cb7693b1d100a748d209"
+hash = "e5e9bba2a89cf10702f9acc4c419810845c519a5685cd3b450f3e5ae147c6899"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "47c701c67e70b60b3a71c9ec4aff707ea0411f033024730b1ca0567b8526a824"
+hash = "8fb11f14908ef59ee9133d901d3db895c6dedf9c885059cf33e397f162d29413"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "2e2af1cc71b69b26ae87bcb78d75fb0186d690ee1b85d8d4586eec112aa51b66"
+hash = "7e3027c119bbd5e6af324be80fb8b7328c091d0b63955e26952e71acc329d8f1"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f"
+hash = "a1f6bfecd4098396ad7df0ec212ebd5b76fe1c14223f9e4a712eb16738fc5b7a"
 metafile = true
 
 [[files]]
