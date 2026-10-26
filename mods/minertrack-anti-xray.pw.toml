@@ -1,13 +1,13 @@
 name = "MinerTrack Anti Xray"
-filename = "MinerTrack-2.1.1.2+neoforge.jar"
+filename = "MinerTrack-2.1.2.0+neoforge.jar"
 side = "server"
 
 [download]
+url = "https://www.curseforge.com/api/v1/mods/1664861/files/9056407/download"
 hash-format = "sha1"
-hash = "3d2808a0fb900c6118074efeb21749c0d876699a"
-url = "https://www.curseforge.com/api/v1/mods/1664861/files/8767994/download"
+hash = "99d0f33f69f67715043bd9844e9c4bd6f1c070d5"
 
 [update]
 [update.curseforge]
-file-id = 8767994
+file-id = 9056407
 project-id = 1664861

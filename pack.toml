@@ -1,11 +1,11 @@
 name = "Create 4"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a10344c15bc72b79741337dafe2001f0fdaa4a0a012ad943817452ecee2bf7e"
+hash = "2ac1bd5c65f79571772b8ada0027825c9728c200537fc91bff8cc002d2645569"
 
 [versions]
 minecraft = "1.21.1"
