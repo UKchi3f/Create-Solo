@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8bf59e3bacf4bae409bd4f26aa77cdd3d8a61b67e1174b25200a558b0daba725"
+hash = "116dc688a8c946c0c7dcd898df277942504d57364a7531fecca35f9df6f9d915"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coaster-seat.pw.toml"
-hash = "a343da7532a6745e91f00f207a890d20c43c7147aec818b23e5563c22c3c366c"
+hash = "5ca188c714e38bf0a5ac020ec374742d03c94f1e33789c4e40889e606bd3288e"
 metafile = true
 
 [[files]]
@@ -507,17 +507,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "735c9645b3746ed1b428a3ba5bfc5fcfe33fac132d4fa6924b566c0ba5e1df11"
+hash = "8a6203521324d8359947340a6b39466e266d95998ebca7db3781d4439ad4fafe"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "dfa2cefa3635718ab5f6d66d4841cbb1f1cf4bb3ccb262cf86b19b1b1e2aca69"
+hash = "de0d3c65a2a8c796dce223b73e76677d3976de19491ba0cb8d801fc6b45f002d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0e1b01e2153e21799c09d48a49850c694a83674d63c9f47ec32c288325f45878"
+hash = "5fb2ee1d02b9f7de257b181194069b0f687e52c49fac35b908d0debe4416c06a"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6"
+hash = "52036d766eeb1b639503d237987878e7409933d5577d411b55b8b7a6633b5510"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroheadtracker.pw.toml"
-hash = "3c8788b7bc703d26f7f2e375083ad6f8d513e764b441e1b9cc53c1735d3645c1"
+hash = "95115ca42e02308e95029013313df06c1f1aea0e39a530532407190c7431850d"
 metafile = true
 
 [[files]]
